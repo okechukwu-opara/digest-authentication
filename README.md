@@ -4,7 +4,7 @@ Digest authentication example
 Server
 ------
 
-Example server I used to try digest authentication clients. I found it here: https://www.npmjs.com/package/http-auth
+I used to try digest authentication clients. I found at: https://www.npmjs.com/package/http-auth
 
 To install and run the server:
 
@@ -45,6 +45,3 @@ node digest-client.js
 
 Both clients should return the same result: `Welcome to private area - vivi!`.
 
-
-
-That's it :)
